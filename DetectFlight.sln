@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectFlight", "DetectFlight\DetectFlight.csproj", "{21D025A6-A268-4AC4-9DAF-3CEA8D3993EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D025A6-A268-4AC4-9DAF-3CEA8D3993EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D025A6-A268-4AC4-9DAF-3CEA8D3993EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D025A6-A268-4AC4-9DAF-3CEA8D3993EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D025A6-A268-4AC4-9DAF-3CEA8D3993EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F0822F-E65B-4701-BB08-3239E40FEC99}
+	EndGlobalSection
+EndGlobal
